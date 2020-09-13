@@ -14,7 +14,6 @@ ipywidgets
 RISE
 
 jupyter-server-proxy
-jupyter-vscode-proxy
 
 ###############################################################
 #          python packages             #
@@ -32,6 +31,3 @@ ipython-cypher
 networkx
 igraph
 jgraph
-
-
-
